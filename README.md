@@ -1,1 +1,1 @@
-# Face-Recognition-on-react
+# Face-Detection-on-react
